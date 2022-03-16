@@ -5,13 +5,13 @@
 - table
 ## Path of .aws in windows -
 C:\Users\arghy\.aws
-## C:\Users\arghy\.aws\config
+### C:\Users\arghy\.aws\config
 ```
 [default]
 region = ap-south-1
 output = json
 ```
-## C:\Users\arghy\.aws\config\credentials
+### C:\Users\arghy\.aws\config\credentials
 ```
 [default]
 aws_access_key_id = xxxx
