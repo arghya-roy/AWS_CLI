@@ -41,6 +41,10 @@ aws s3 ls
 ```
 aws s3 ls --profile arghya
 ```
+## Using role -
+- Suppose we use a ec2 instance and run aws cli from there, then we can just add a role to that instances which have required permission. then we can use use aws cli without 
+access key.
+
 ## Command structure of AWS CLI -
 - aws = aws
 - command = cloudformation ( We can compare command with resource name)
